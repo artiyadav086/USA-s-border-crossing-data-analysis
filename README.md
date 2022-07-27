@@ -6,7 +6,7 @@ Due to globalization, there has been increase in  cross border migration since l
 However, big proportion of migration is illegal. The big portion illegal migrants choose USA as their preferred destination. This can be attributed to USA's big economy, better living conditions, stability, and the penetrable borders through Mexico. </br> </br>
 Analysis </br>
 ------------</br>
-The surge in cross border illegal migration started to increase for USA since beginning of 2000s and since 2017 is gradually declining.</br>
+The surge in cross border illegal migration which was more or less constant in 20th century, started to increase for USA since the beginning of 2000s and since 2016 it is observing declining trend.</br>
 Top 5 vulnerable states are :</br>
 * North Dakota</br>
 * Washington</br>
@@ -15,8 +15,8 @@ Top 5 vulnerable states are :</br>
 * Texas</br>
 </br>
 There is no strong correlation between: </br>
-* Measure and infiltration </br>
-* Month and infiltration</br>
+* Measure and illegal migration </br>
+* Month and illegal migration</br>
 </br>
 Most affected port is Eastport: </br>
 portname (total immigrants)</br>
@@ -28,7 +28,7 @@ Buffalo Niagara Falls	(3793) </br>
 Champlain Rouses Point	(3783) </br></br>
 Recent trend: </br>
 --------------</br>
-Gradual decline since 2017 has been observed.
+Gradual decline since 2016 has been observed.
 </br>
 **END**
 
