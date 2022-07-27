@@ -36,5 +36,5 @@ Gradual decline since 2016 has been observed.
 Postgres queries used: </br>
 ------------------------ </br>
 -to collect top vulnerable port names </br>
-select portname, count(portname) as 'total immigrants' from border_crossing_entry_data group by portname order by count(portname) desc limit 10;
+select portname, count(portname) as 'total immigrants' from border_crossing_entry_data group by portname order by count(portname) desc limit 5;
 </br>
