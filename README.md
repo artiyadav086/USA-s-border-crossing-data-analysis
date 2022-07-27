@@ -20,21 +20,21 @@ There is no strong correlation between: </br>
 </br>
 Most affected port is Eastport: </br>
 portname (total immigrants)</br>
------------------------------ </br>
+------------------------------ </br>
 Eastport (6186) </br>
 Nogales    (3811) </br>
 El Paso	(3797) </br>
 Buffalo Niagara Falls	(3793) </br>
-Champlain Rouses Point	(3783) </br>
-Recent trend:
-------------
+Champlain Rouses Point	(3783) </br></br>
+Recent trend: </br>
+--------------</br>
 Gradual decline since 2017 has been observed.
 </br>
 **END**
 
 </br> </br>
 Postgres queries used: </br>
----------------------- </br>
+------------------------ </br>
 -to collect top vulnerable port names </br>
 select portname, count(portname) as 'total immigrants' from border_crossing_entry_data group by portname order by count(portname) desc limit 10;
 </br>
